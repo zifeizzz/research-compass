@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="公开科研导航：论文检索、古地磁、GIS、地学数据、模型与科研工具。">
+  <title>研途导航 · Research Compass</title>
+  <style>
+    :root{--ink:#20211e;--muted:#777871;--line:#e6e3da;--paper:#faf9f5;--card:#fffefa;--blue:#28657b;--blue-soft:#e8f1f3;--gold:#b47a31}
+    *{box-sizing:border-box}html{background:var(--paper)}body{margin:0;background:var(--paper);color:var(--ink);font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif}
+    button,input{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+    .wrap{max-width:1320px;min-height:100vh;margin:auto;padding:24px 38px 22px}.site-header{display:flex;align-items:center;justify-content:space-between;gap:22px;padding-bottom:19px;border-bottom:1px solid var(--line)}
+    .brand{display:flex;align-items:center;gap:11px}.brand-mark{display:grid;place-items:center;width:33px;height:33px;border-radius:9px;background:var(--ink);color:#fff;font:700 11px Georgia,serif;letter-spacing:.04em}
+    .brand>div{display:flex;align-items:baseline;gap:12px}.brand b{font:600 23px Georgia,"Songti SC",serif;letter-spacing:-.04em}.brand span:not(.brand-mark){color:var(--muted);font-size:12px}
+    .header-actions{display:flex;align-items:center;gap:6px}.quiet-button,.primary-button{border-radius:5px;padding:8px 11px;font-size:12px;transition:.16s ease}
+    .quiet-button{border:1px solid transparent;background:transparent;color:var(--muted)}.quiet-button:hover{border-color:var(--line);background:#fff;color:var(--ink)}
+    .primary-button{border:1px solid var(--ink);background:var(--ink);color:#fff}.primary-button:hover{background:var(--blue);border-color:var(--blue)}
+    .intro{display:flex;align-items:flex-end;justify-content:space-between;gap:35px;padding:43px 0 31px}.eyebrow{margin:0 0 10px;color:var(--blue);font:600 10px Arial,sans-serif;letter-spacing:.16em}
+    .intro h1{max-width:700px;margin:0;font:500 clamp(32px,4.3vw,57px)/1.05 Georgia,"Songti SC",serif;letter-spacing:-.06em}.intro h1 em{color:var(--blue);font-style:normal}
+    .intro-copy{max-width:570px;margin:15px 0 0;color:var(--muted);font-size:14px;line-height:1.8}.stats{display:flex;gap:28px;padding-bottom:5px}.stats div{min-width:52px}.stats strong{display:block;font:500 26px Georgia,serif}.stats span{display:block;margin-top:4px;color:var(--muted);font-size:11px;white-space:nowrap}
+    .toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:13px 0 15px;border-top:1px solid var(--line)}.search-box{display:flex;align-items:center;gap:8px;width:min(410px,100%);color:var(--muted)}
+    .search-box>span{font-size:23px;line-height:1;transform:rotate(-20deg)}.search-box input{width:100%;border:0;border-bottom:1px solid #c9c7bf;outline:0;background:transparent;padding:8px 0;color:var(--ink);font-size:14px}.search-box input:focus{border-color:var(--blue)}
+    .search-box kbd{color:#a4a39d;font:10px Arial,sans-serif;white-space:nowrap}.result-count{color:var(--muted);font-size:11px}
+    .tabs{display:flex;flex-wrap:wrap;gap:7px;padding:0 0 17px;border-bottom:1px solid var(--line)}.tabs button{border:1px solid var(--line);border-radius:4px;background:var(--card);color:#4d4e49;padding:7px 10px;font-size:12px}
+    .tabs button:hover{border-color:#b8cbd0;color:var(--blue)}.tabs button.active{border-color:#bed2d8;background:var(--blue-soft);color:#17485d}.tabs button.favorite-tab{border-style:dashed}.tabs small{margin-left:5px;color:#999a94;font-size:10px}
+    .links{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0 25px;padding-top:9px}.links article{display:flex;align-items:center;min-width:0;min-height:61px;border-bottom:1px solid var(--line)}
+    .links article>a{display:flex;align-items:center;gap:9px;min-width:0;flex:1;color:inherit;text-decoration:none}.links article>a:hover b{color:var(--blue);text-decoration:underline}
+    .links i{display:grid;place-items:center;width:25px;height:25px;flex:0 0 25px;border:1px solid #d6d5ce;border-radius:50%;color:#64655f;font:13px Georgia,serif;font-style:normal}
+    .links article>a>span{min-width:0}.links b{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px;font-weight:600}.links small{display:block;overflow:hidden;margin-top:3px;color:var(--muted);text-overflow:ellipsis;white-space:nowrap;font-size:10px}.links em{padding-left:5px;color:#a1a29b;font-style:normal}
+    .item-actions{display:none;align-items:center;gap:7px;padding-left:4px}.links article:hover .item-actions,.links article:focus-within .item-actions{display:flex}.item-actions button{border:0;background:none;padding:0;color:var(--muted);font-size:11px}.item-actions button:hover{color:var(--blue)}.item-actions button:last-child:hover{color:#b34435}.item-actions .star{color:#b5b4ac;font-size:15px;line-height:1}.item-actions .star.selected{color:var(--gold)}
+    .empty{grid-column:1/-1;display:flex;align-items:center;gap:13px;padding:48px 0;color:var(--muted)}.empty strong{color:var(--ink);font:500 19px Georgia,serif}.empty span{font-size:12px}
+    footer{display:flex;align-items:center;justify-content:space-between;gap:15px;padding-top:17px;color:var(--muted);font-size:11px}footer button{border:0;background:transparent;color:var(--muted);font-size:11px}footer button:hover{color:var(--blue);text-decoration:underline}
+    dialog{width:min(420px,calc(100% - 32px));border:1px solid #d8d6ce;border-radius:7px;background:var(--card);padding:25px;box-shadow:0 20px 55px #0002}dialog::backdrop{background:#10131155}
+    .dialog-top{display:flex;justify-content:space-between;gap:20px}.dialog-top h2{margin:0 0 19px;font:500 26px Georgia,"Songti SC",serif;letter-spacing:-.03em}.close{border:0;background:transparent;color:var(--muted);font-size:24px;line-height:1}
+    dialog label{display:block;margin-top:14px;color:#5b5c56;font-size:11px}dialog input{display:block;width:100%;border:0;border-bottom:1px solid #d1cfc8;outline:0;background:transparent;padding:9px 0;color:var(--ink);font-size:14px}dialog input:focus{border-color:var(--blue)}
+    .dialog-actions{display:flex;justify-content:flex-end;gap:8px;margin:25px 0 0}.dialog-actions>button:first-child{border:1px solid #c9c7c0;border-radius:5px;background:transparent;padding:8px 12px;color:var(--muted);font-size:12px}
+    @media(max-width:1050px){.links{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:760px){.wrap{padding:19px 20px}.site-header,.intro,footer{align-items:flex-start;flex-direction:column}.header-actions{flex-wrap:wrap}.intro{gap:22px;padding:34px 0 27px}.stats{gap:22px}.toolbar{align-items:flex-start;flex-direction:column}.result-count{align-self:flex-end}.links{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 14px}.item-actions{display:none!important}.empty{align-items:flex-start;flex-direction:column}}@media(max-width:430px){.brand>div{display:block}.brand>div>span{display:block;margin-top:4px}.header-actions{gap:3px}.header-actions .quiet-button{padding-inline:6px}.intro h1{font-size:38px}.links{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header class="site-header">
+      <div class="brand"><span class="brand-mark">RC</span><div><b>研途导航</b><span>Research Compass · 公开科研资源</span></div></div>
+      <div class="header-actions"><button class="quiet-button" id="export-button">导出清单</button><button class="primary-button" id="add-button">＋ 添加网址</button></div>
+    </header>
+    <section class="intro">
+      <div><p class="eyebrow">A SMALL DESK FOR BIG QUESTIONS</p><h1>把下一步研究，<em>放在手边。</em></h1><p class="intro-copy">论文检索、古地磁、GIS、地学数据与科研工具的公开入口。你可以在当前浏览器中继续添加、编辑和整理自己的常用网站。</p></div>
+      <div class="stats"><div><strong id="total-count">0</strong><span>个入口</span></div><div><strong id="category-count">0</strong><span>个分类</span></div><div><strong id="favorite-count">0</strong><span>个收藏</span></div></div>
+    </section>
+    <section class="toolbar"><label class="search-box"><span>⌕</span><input id="search" placeholder="搜索名称、备注或网址…" aria-label="搜索网站"><kbd>⌘ K</kbd></label><span class="result-count" id="result-count"></span></section>
+    <nav class="tabs" id="tabs" aria-label="网站分类"></nav>
+    <section class="links" id="links" aria-live="polite"></section>
+    <footer><span>点击名称打开 · ★ 标记常用入口 · 编辑保存在当前浏览器</span><button id="reset-button">恢复公开清单</button></footer>
+  </main>
+  <dialog id="editor">
+    <form method="dialog" id="editor-form">
+      <div class="dialog-top"><div><p class="eyebrow">LINK EDITOR</p><h2 id="dialog-title">添加网址</h2></div><button type="button" class="close" id="close-button" aria-label="关闭">×</button></div>
+      <label>名称<input required id="name" name="name"></label>
+      <label>网址<input required id="url" name="url" inputmode="url" placeholder="https://example.com"></label>
+      <label>分类<input required id="category" name="category"></label>
+      <label>备注<input id="note" name="note" placeholder="例如：数据下载、投稿、常用计算器"></label>
+      <p class="dialog-actions"><button type="button" id="cancel-button">取消</button><button class="primary-button" value="default">保存入口</button></p>
+    </form>
+  </dialog>
+  <script src="./catalog.js"></script>
+  <script>
+    const coreLinks = [
+      ["SCI","https://www.science.org","学术检索"],["Google Scholar","https://scholar.google.com","学术检索"],["Web of Science","https://www.webofscience.com","学术检索"],["Dimensions","https://app.dimensions.ai","学术检索"],["ResearchGate","https://www.researchgate.net","学术检索"],["中国知网","https://www.cnki.net","学术检索"],["科学网","https://www.sciencenet.cn","学术检索"],["必应","https://www.bing.com","学术检索"],
+      ["PubScholar","https://pubscholar.cn","文献与图书"],["国家图书馆","https://www.nlc.cn","文献与图书"],["NSTL","https://www.nstl.gov.cn","文献与图书"],["书格","https://new.shuge.org","文献与图书"],["科研通","https://www.ablesci.com","文献与图书"],["读秀","https://www.duxiu.com","文献与图书"],
+      ["PmagPy","https://pmagpy.github.io/PmagPy-docs/intro.html","古地磁与岩石磁学"],["PINT Palaeointensity Database","https://pintdb.org","古地磁与岩石磁学"],["Paleointensity.org","https://paleointensity.org","古地磁与岩石磁学"],["EarthRef / MagIC","https://earthref.org/MagIC","古地磁与岩石磁学"],["APWP-online","https://apwp-online.org","古地磁与岩石磁学"],["Global Paleomagnetic Database","http://gpmdb.net","古地磁与岩石磁学"],["NCEI Geomagnetic Calculators","https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml","古地磁与岩石磁学"],
+      ["GPlates","https://www.gplates.org","地学数据与模型"],["EarthByte","https://www.earthbyte.org","地学数据与模型"],["USGS","https://www.usgs.gov","地学数据与模型"],["NCEI","https://www.ncei.noaa.gov","地学数据与模型"],["GEOROC","https://georoc.mpch-mainz.gwdg.de","地学数据与模型"],["Geodynamics","https://geodynamics.org","地学数据与模型"],["Fastscape","https://fastscape.org","地学数据与模型"],["Deep Time","https://deeptime.info","地学数据与模型"],["GMRT","https://www.gmrt.org","地学数据与模型"],["Rockd","https://rockd.org/explore","地学数据与模型"],
+      ["QGIS","https://qgis.org","GIS与制图"],["GMT","https://www.generic-mapping-tools.org","GIS与制图"],["PROJ","https://proj.org","GIS与制图"],["OSGeo GIS教程","https://www.osgeo.cn/gis-tutorial/index.html","GIS与制图"],["Dezoomify","https://dezoomify.app.ditushu.com","GIS与制图"],["NASA Visible Earth","https://visibleearth.nasa.gov","GIS与制图"],
+      ["GitHub","https://github.com","软件与编程"],["Python 官方文档","https://docs.python.org/zh-cn/3/","软件与编程"],["Jupyter","https://jupyter.org","软件与编程"],["EGU Blogs","https://blogs.egu.eu","工具与社区"],["AGU","https://www.agu.org","工具与社区"],["中国地震局","https://www.cea.gov.cn","工具与社区"]
+    ].map((item,index)=>({id:"core-"+index,name:item[0],url:item[1],category:item[2]}));
+
+    const categories = ["学术检索","文献与图书","古地磁与岩石磁学","地学数据与模型","GIS与制图","软件与编程","AI工具","课程与教学","工具与社区"];
+    const storageKey = "research-compass-public-v1";
+    const defaultLinks = unique([...coreLinks, ...(window.RESEARCH_CATALOG || [])]);
+    let links = restore();
+    let active = "学术检索";
+    let query = "";
+    let editingId = null;
+
+    function canonical(url) {
+      try {
+        const parsed = new URL(url);
+        const ignored = /^(utm_|spm$|from$|ref$|referrer$|source$|share_)/i;
+        const params = [...parsed.searchParams.entries()].filter(([key]) => !ignored.test(key));
+        return (parsed.hostname.toLowerCase() + (parsed.pathname.replace(/\/$/,"") || "/") + (params.length ? "?" + new URLSearchParams(params) : "")).toLowerCase();
+      } catch { return String(url).trim().toLowerCase().replace(/\/$/,""); }
+    }
+    function unique(items) {
+      const seen = new Set();
+      return items.filter(item => {
+        const key = canonical(item.url);
+        if (!item.name || !item.url || seen.has(key)) return false;
+        seen.add(key); return true;
+      });
+    }
+    function restore() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(storageKey) || "null");
+        if (!Array.isArray(saved)) return defaultLinks;
+        const byUrl = new Map(saved.map(item => [canonical(item.url), item]));
+        const bundled = defaultLinks.map(item => byUrl.get(canonical(item.url)) || item);
+        const custom = saved.filter(item => !defaultLinks.some(base => canonical(base.url) === canonical(item.url)));
+        return unique([...bundled, ...custom]);
+      } catch { return defaultLinks; }
+    }
+    function persist() { localStorage.setItem(storageKey, JSON.stringify(links)); }
+    function newId() { return "custom-" + Date.now() + "-" + Math.random().toString(16).slice(2); }
+    function safeUrl(value) { const text = value.trim(); return /^https?:\/\//i.test(text) ? text : "https://" + text; }
+    function escapeHtml(value) { return String(value).replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[char])); }
+
+    function render() {
+      const keyword = query.trim().toLowerCase();
+      const shown = links.filter(item => {
+        const matchesQuery = !keyword || (item.name + " " + (item.note || "") + " " + item.url).toLowerCase().includes(keyword);
+        const matchesCategory = keyword || active === "全部" ? true : active === "★ 收藏" ? item.favorite : item.category === active;
+        return matchesQuery && matchesCategory;
+      }).sort((a,b) => Number(Boolean(b.favorite)) - Number(Boolean(a.favorite)) || a.name.localeCompare(b.name,"zh-CN"));
+      document.getElementById("total-count").textContent = links.length;
+      document.getElementById("category-count").textContent = new Set(links.map(item => item.category)).size;
+      document.getElementById("favorite-count").textContent = links.filter(item => item.favorite).length;
+      document.getElementById("result-count").textContent = query ? "找到 " + shown.length + " 个结果" : (active === "全部" ? "全部入口 · " : active + " · ") + shown.length + " 个";
+      renderTabs();
+      const container = document.getElementById("links");
+      if (!shown.length) { container.innerHTML = '<div class="empty"><strong>没有匹配的网站</strong><span>试试更短的关键词，或添加一个新的研究入口。</span><button class="quiet-button" id="empty-add">＋ 添加网址</button></div>'; document.getElementById("empty-add").onclick = openAdd; return; }
+      container.innerHTML = shown.map(item => '<article><a href="' + escapeHtml(item.url) + '" target="_blank" rel="noreferrer"><i>' + escapeHtml(item.name.slice(0,1)) + '</i><span><b>' + escapeHtml(item.name) + '</b><small>' + escapeHtml(item.note || item.category) + '</small></span><em>↗</em></a><div class="item-actions"><button class="star ' + (item.favorite ? "selected" : "") + '" data-action="favorite" data-id="' + item.id + '" aria-label="' + (item.favorite ? "取消收藏 " : "收藏 ") + escapeHtml(item.name) + '">★</button><button data-action="edit" data-id="' + item.id + '">编辑</button><button data-action="delete" data-id="' + item.id + '">删除</button></div></article>').join("");
+      container.querySelectorAll("[data-action]").forEach(button => button.addEventListener("click", () => {
+        const item = links.find(link => link.id === button.dataset.id);
+        if (!item) return;
+        if (button.dataset.action === "favorite") item.favorite = !item.favorite;
+        if (button.dataset.action === "edit") openEdit(item);
+        if (button.dataset.action === "delete") links = links.filter(link => link.id !== item.id);
+        persist(); render();
+      }));
+    }
+    function renderTabs() {
+      const tabs = document.getElementById("tabs");
+      const counts = category => links.filter(item => item.category === category).length;
+      tabs.innerHTML = ['全部', ...categories, "★ 收藏"].map(category => '<button class="' + (active === category && !query ? "active " : "") + (category === "★ 收藏" ? "favorite-tab" : "") + '" data-category="' + category + '">' + category + '<small>' + (category === "全部" ? links.length : category === "★ 收藏" ? links.filter(item => item.favorite).length : counts(category)) + '</small></button>').join("");
+      tabs.querySelectorAll("button").forEach(button => button.onclick = () => { active = button.dataset.category; query = ""; document.getElementById("search").value = ""; render(); });
+    }
+    function openAdd() { editingId = null; document.getElementById("dialog-title").textContent = "添加网址"; document.getElementById("name").value = ""; document.getElementById("url").value = ""; document.getElementById("category").value = active === "全部" || active === "★ 收藏" ? "我的收藏" : active; document.getElementById("note").value = ""; document.getElementById("editor").showModal(); }
+    function openEdit(item) { editingId = item.id; document.getElementById("dialog-title").textContent = "编辑网址"; document.getElementById("name").value = item.name; document.getElementById("url").value = item.url; document.getElementById("category").value = item.category; document.getElementById("note").value = item.note || ""; document.getElementById("editor").showModal(); }
+    document.getElementById("add-button").onclick = openAdd;
+    document.getElementById("export-button").onclick = () => { const blob = new Blob([JSON.stringify(links,null,2)],{type:"application/json"}); const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "research-compass-links.json"; a.click(); URL.revokeObjectURL(a.href); };
+    document.getElementById("reset-button").onclick = () => { if (confirm("恢复公开清单并清除本机新增网址？")) { links = defaultLinks.map(item => ({...item})); persist(); render(); } };
+    document.getElementById("search").oninput = event => { query = event.target.value; render(); };
+    document.getElementById("search").onkeydown = event => { if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") { event.preventDefault(); event.target.focus(); } };
+    document.getElementById("editor-form").onsubmit = event => { event.preventDefault(); const item = {id: editingId || newId(),name:document.getElementById("name").value.trim(),url:safeUrl(document.getElementById("url").value),category:document.getElementById("category").value.trim() || "我的收藏",note:document.getElementById("note").value.trim()}; links = editingId ? links.map(link => link.id === editingId ? {...link,...item} : link) : unique([item,...links]); persist(); document.getElementById("editor").close(); render(); };
+    document.getElementById("close-button").onclick = () => document.getElementById("editor").close();
+    document.getElementById("cancel-button").onclick = () => document.getElementById("editor").close();
+    render();
+  </script>
+</body>
+</html>
+
