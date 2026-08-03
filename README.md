@@ -7,5 +7,3 @@
 ## GitHub Pages
 
 推送到 `main` 分支后，GitHub Actions 会自动发布到 GitHub Pages。
-
-本公开版不包含 Gmail、校内系统、内网地址和个人临时服务入口；完整私人清单继续保留在独立的 ChatGPT Site 备份中。
