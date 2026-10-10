@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:13:37.332Z",
+  "updatedAt": "2026-10-10T06:16:39.164Z",
   "links": [
     {
       "id": "core-0",
@@ -508,7 +508,7 @@
     },
     {
       "id": "safari-040",
-      "name": "EarthRef.org -- PmagPy Cookbook",
+      "name": "PmagPy Cookbook",
       "url": "https://earthref.org/PmagPy/cookbook/osx_pip.html",
       "category": "古地磁与岩石磁学",
       "note": "公开科研清单 · 古地磁/岩石磁学"
