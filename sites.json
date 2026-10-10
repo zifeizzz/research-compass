@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:58:50.535Z",
+  "updatedAt": "2026-10-10T02:59:35.472Z",
   "links": [
     {
       "id": "core-0",
@@ -295,13 +295,6 @@
       "url": "https://www.cea.gov.cn/",
       "category": "工具与社区",
       "note": ""
-    },
-    {
-      "id": "safari-001",
-      "name": "ChatGPT",
-      "url": "https://chatgpt.com/",
-      "category": "AI工具",
-      "note": "公开科研清单 · AI工具/服务"
     },
     {
       "id": "safari-003",
