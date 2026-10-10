@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T08:53:00.594Z",
+  "updatedAt": "2026-10-10T11:25:36.113Z",
   "links": [
     {
       "id": "core-0",
@@ -627,7 +627,7 @@
     },
     {
       "id": "safari-080",
-      "name": "Paleo Data Search | Home | National Centers for Environmental Information (NCEI)",
+      "name": "NOAA_PaleoSearch",
       "url": "https://www.ncei.noaa.gov/access/paleo-search/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
