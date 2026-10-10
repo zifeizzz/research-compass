@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T03:04:56.803Z",
+  "updatedAt": "2026-10-10T03:13:35.983Z",
   "links": [
     {
       "id": "core-0",
@@ -634,7 +634,7 @@
     },
     {
       "id": "safari-062",
-      "name": "Geochemical Rock Database-Query",
+      "name": "GEOROC",
       "url": "https://georoc.mpch-mainz.gwdg.de/georoc/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
