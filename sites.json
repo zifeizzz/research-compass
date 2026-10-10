@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:16:39.164Z",
+  "updatedAt": "2026-10-10T06:16:51.390Z",
   "links": [
     {
       "id": "core-0",
@@ -813,13 +813,6 @@
       "url": "http://www.ruralchina.cn/lmc/sublibrary?SiteID=18&ID=83&from=groupmessage",
       "category": "文献与图书",
       "note": "公开科研清单 · 文献/图书/学术服务"
-    },
-    {
-      "id": "safari-102",
-      "name": "Ed — Digital Learning Platform",
-      "url": "https://edstem.org/au/courses/8582/discussion/828173",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
     },
     {
       "id": "safari-103",
