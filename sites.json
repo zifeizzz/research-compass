@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:40:30.520Z",
+  "updatedAt": "2026-10-10T06:40:50.771Z",
   "links": [
     {
       "id": "core-0",
@@ -265,13 +265,6 @@
       "id": "core-38",
       "name": "Python 官方文档",
       "url": "https://docs.python.org/zh-cn/3/",
-      "category": "软件与编程",
-      "note": ""
-    },
-    {
-      "id": "core-39",
-      "name": "Jupyter",
-      "url": "https://jupyter.org/",
       "category": "软件与编程",
       "note": ""
     },
