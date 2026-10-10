@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:35:06.171Z",
+  "updatedAt": "2026-10-10T02:35:34.205Z",
   "links": [
     {
       "id": "core-0",
@@ -974,13 +974,6 @@
       "url": "https://www.icourse163.org/course/CCNU-1002920015",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-112",
-      "name": "3.8.11 Documentation",
-      "url": "https://docs.python.org/3.8/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
     },
     {
       "id": "safari-114",
