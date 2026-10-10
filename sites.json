@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:03:09.681Z",
+  "updatedAt": "2026-10-10T06:03:53.665Z",
   "links": [
     {
       "id": "core-0",
@@ -846,13 +846,6 @@
       "id": "safari-100",
       "name": "知网查重-知网个人查重服务",
       "url": "https://cx.cnki.net/main.html#/login",
-      "category": "文献与图书",
-      "note": "公开科研清单 · 文献/图书/学术服务"
-    },
-    {
-      "id": "safari-101",
-      "name": "首页-论文阅读(BETA)-专业的学术讨论社区-粤港澳大湾区数字经济研究院（福田）",
-      "url": "https://readpaper.com/",
       "category": "文献与图书",
       "note": "公开科研清单 · 文献/图书/学术服务"
     },
