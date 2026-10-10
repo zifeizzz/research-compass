@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:27:29.890Z",
+  "updatedAt": "2026-10-10T06:29:04.782Z",
   "links": [
     {
       "id": "core-0",
@@ -606,7 +606,7 @@
     },
     {
       "id": "safari-069",
-      "name": "Home",
+      "name": "CEED",
       "url": "http://www.earthdynamics.org/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
