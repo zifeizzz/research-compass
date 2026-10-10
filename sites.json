@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:01:08.462Z",
+  "updatedAt": "2026-10-10T06:01:48.107Z",
   "links": [
     {
       "id": "core-0",
@@ -874,13 +874,6 @@
       "id": "safari-103",
       "name": "Teach the Earth",
       "url": "https://serc.carleton.edu/teachearth/index.html",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-104",
-      "name": "地学景观探秘·审美·文化_重庆大学",
-      "url": "https://www.icourse163.org/course/CQU-1002531005?tid=1470015447",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
     },
