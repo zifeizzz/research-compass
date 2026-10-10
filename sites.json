@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:37:17.105Z",
+  "updatedAt": "2026-10-10T06:37:42.181Z",
   "links": [
     {
       "id": "core-0",
@@ -620,7 +620,7 @@
     },
     {
       "id": "safari-071",
-      "name": "Installation",
+      "name": "badlands",
       "url": "https://badlands.readthedocs.io/en/latest/install.html",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
