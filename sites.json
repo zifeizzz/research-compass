@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:38:39.575Z",
+  "updatedAt": "2026-10-10T06:39:52.896Z",
   "links": [
     {
       "id": "core-0",
@@ -629,13 +629,6 @@
       "id": "safari-072",
       "name": "goSPL",
       "url": "https://gospl.readthedocs.io/en/latest/index.html",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-073",
-      "name": "Interactive Paleoenvironment Reconstructions",
-      "url": "https://map.paleoenvironment.eu/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
