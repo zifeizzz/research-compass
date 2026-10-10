@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:59:35.472Z",
+  "updatedAt": "2026-10-10T03:00:06.739Z",
   "links": [
     {
       "id": "core-0",
@@ -820,13 +820,6 @@
       "url": "https://moon.bao.ac.cn/Mars/index/index.html#",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-091",
-      "name": "CNKI电子发票服务系统",
-      "url": "https://card.cnki.net/fapiao/home.html",
-      "category": "文献与图书",
-      "note": "公开科研清单 · 文献/图书/学术服务"
     },
     {
       "id": "safari-092",
