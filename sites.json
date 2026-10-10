@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:12:55.556Z",
+  "updatedAt": "2026-10-10T06:13:37.332Z",
   "links": [
     {
       "id": "core-0",
@@ -505,13 +505,6 @@
       "url": "https://www.dituji.com/",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
-    },
-    {
-      "id": "safari-039",
-      "name": "DGRF/IGRF Geomagnetic Field Model 1945 - 2025",
-      "url": "https://ccmc.gsfc.nasa.gov/modelweb/models/igrf_vitmo.php",
-      "category": "古地磁与岩石磁学",
-      "note": "公开科研清单 · 古地磁/岩石磁学"
     },
     {
       "id": "safari-040",
