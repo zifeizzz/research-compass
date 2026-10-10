@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T12:05:47.726Z",
+  "updatedAt": "2026-10-10T12:07:52.737Z",
   "links": [
     {
       "id": "core-0",
@@ -189,13 +189,6 @@
       "name": "Rockd",
       "url": "https://rockd.org/explore",
       "category": "地学数据与模型",
-      "note": ""
-    },
-    {
-      "id": "core-31",
-      "name": "QGIS",
-      "url": "https://qgis.org/",
-      "category": "GIS与制图",
       "note": ""
     },
     {
