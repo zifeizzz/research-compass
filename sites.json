@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T03:02:40.497Z",
+  "updatedAt": "2026-10-10T03:04:56.803Z",
   "links": [
     {
       "id": "core-0",
@@ -606,8 +606,8 @@
     },
     {
       "id": "safari-057",
-      "name": "DDE | Web-GPlates",
-      "url": "https://dplanet.deep-time.org/DPlanet/",
+      "name": "DDE",
+      "url": "https://deep-time.org/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
