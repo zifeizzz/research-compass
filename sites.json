@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:03:53.665Z",
+  "updatedAt": "2026-10-10T06:09:12.645Z",
   "links": [
     {
       "id": "core-0",
@@ -972,13 +972,6 @@
       "id": "safari-128",
       "name": "Yu Ren",
       "url": "https://seisfish.github.io/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-129",
-      "name": "一维信号的高斯滤波",
-      "url": "https://loopvoid.github.io/2017/03/04/%E4%B8%80%E7%BB%B4%E4%BF%A1%E5%8F%B7%E7%9A%84%E9%AB%98%E6%96%AF%E6%BB%A4%E6%B3%A2/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
