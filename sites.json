@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:33:43.912Z",
+  "updatedAt": "2026-10-10T02:34:20.755Z",
   "links": [
     {
       "id": "core-0",
@@ -382,7 +382,7 @@
     },
     {
       "id": "safari-013",
-      "name": "1. 概述 — GIS原理在线教程",
+      "name": "GIS原理在线教程",
       "url": "https://www.osgeo.cn/gis-tutorial/gis.html",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
