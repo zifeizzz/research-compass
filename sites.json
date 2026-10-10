@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:46:33.262Z",
+  "updatedAt": "2026-10-10T06:47:36.981Z",
   "links": [
     {
       "id": "core-0",
@@ -382,7 +382,7 @@
     },
     {
       "id": "safari-021",
-      "name": "MATLAB script for 3D visualizing geodata on a rotating globe",
+      "name": "MATLAB script for 3D",
       "url": "https://www.asu.cas.cz/~bezdek/vyzkum/rotating_3d_globe/index.php#code",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
