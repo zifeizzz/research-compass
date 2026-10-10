@@ -1,264 +1,307 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T00:00:00Z",
+  "updatedAt": "2026-10-10T02:33:25.529Z",
   "links": [
     {
       "id": "core-0",
       "name": "SCI",
-      "url": "https://www.science.org",
-      "category": "学术检索"
+      "url": "https://www.science.org/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-1",
       "name": "Google Scholar",
-      "url": "https://scholar.google.com",
-      "category": "学术检索"
+      "url": "https://scholar.google.com/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-2",
       "name": "Web of Science",
-      "url": "https://www.webofscience.com",
-      "category": "学术检索"
+      "url": "https://www.webofscience.com/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-3",
       "name": "Dimensions",
-      "url": "https://app.dimensions.ai",
-      "category": "学术检索"
+      "url": "https://app.dimensions.ai/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-4",
       "name": "ResearchGate",
-      "url": "https://www.researchgate.net",
-      "category": "学术检索"
+      "url": "https://www.researchgate.net/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-5",
       "name": "中国知网",
-      "url": "https://www.cnki.net",
-      "category": "学术检索"
+      "url": "https://www.cnki.net/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-6",
       "name": "科学网",
-      "url": "https://www.sciencenet.cn",
-      "category": "学术检索"
+      "url": "https://www.sciencenet.cn/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-7",
       "name": "必应",
-      "url": "https://www.bing.com",
-      "category": "学术检索"
+      "url": "https://www.bing.com/",
+      "category": "学术检索",
+      "note": ""
     },
     {
       "id": "core-8",
       "name": "PubScholar",
-      "url": "https://pubscholar.cn",
-      "category": "文献与图书"
+      "url": "https://pubscholar.cn/",
+      "category": "文献与图书",
+      "note": ""
     },
     {
       "id": "core-9",
       "name": "国家图书馆",
-      "url": "https://www.nlc.cn",
-      "category": "文献与图书"
+      "url": "https://www.nlc.cn/",
+      "category": "文献与图书",
+      "note": ""
     },
     {
       "id": "core-10",
       "name": "NSTL",
-      "url": "https://www.nstl.gov.cn",
-      "category": "文献与图书"
+      "url": "https://www.nstl.gov.cn/",
+      "category": "文献与图书",
+      "note": ""
     },
     {
       "id": "core-11",
       "name": "书格",
-      "url": "https://new.shuge.org",
-      "category": "文献与图书"
+      "url": "https://new.shuge.org/",
+      "category": "文献与图书",
+      "note": ""
     },
     {
       "id": "core-12",
       "name": "科研通",
-      "url": "https://www.ablesci.com",
-      "category": "文献与图书"
+      "url": "https://www.ablesci.com/",
+      "category": "文献与图书",
+      "note": ""
     },
     {
       "id": "core-13",
       "name": "读秀",
-      "url": "https://www.duxiu.com",
-      "category": "文献与图书"
+      "url": "https://www.duxiu.com/",
+      "category": "文献与图书",
+      "note": ""
     },
     {
       "id": "core-14",
       "name": "PmagPy",
       "url": "https://pmagpy.github.io/PmagPy-docs/intro.html",
-      "category": "古地磁与岩石磁学"
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-15",
       "name": "PINT Palaeointensity Database",
-      "url": "https://pintdb.org",
-      "category": "古地磁与岩石磁学"
+      "url": "https://pintdb.org/",
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-16",
       "name": "Paleointensity.org",
-      "url": "https://paleointensity.org",
-      "category": "古地磁与岩石磁学"
+      "url": "https://paleointensity.org/",
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-17",
       "name": "EarthRef / MagIC",
       "url": "https://earthref.org/MagIC",
-      "category": "古地磁与岩石磁学"
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-18",
       "name": "APWP-online",
-      "url": "https://apwp-online.org",
-      "category": "古地磁与岩石磁学"
+      "url": "https://apwp-online.org/",
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-19",
       "name": "Global Paleomagnetic Database",
-      "url": "http://gpmdb.net",
-      "category": "古地磁与岩石磁学"
+      "url": "http://gpmdb.net/",
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-20",
       "name": "NCEI Geomagnetic Calculators",
       "url": "https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml",
-      "category": "古地磁与岩石磁学"
+      "category": "古地磁与岩石磁学",
+      "note": ""
     },
     {
       "id": "core-21",
       "name": "GPlates",
-      "url": "https://www.gplates.org",
-      "category": "地学数据与模型"
+      "url": "https://www.gplates.org/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-22",
       "name": "EarthByte",
-      "url": "https://www.earthbyte.org",
-      "category": "地学数据与模型"
+      "url": "https://www.earthbyte.org/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-23",
       "name": "USGS",
-      "url": "https://www.usgs.gov",
-      "category": "地学数据与模型"
+      "url": "https://www.usgs.gov/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-24",
       "name": "NCEI",
-      "url": "https://www.ncei.noaa.gov",
-      "category": "地学数据与模型"
+      "url": "https://www.ncei.noaa.gov/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-25",
       "name": "GEOROC",
-      "url": "https://georoc.mpch-mainz.gwdg.de",
-      "category": "地学数据与模型"
+      "url": "https://georoc.mpch-mainz.gwdg.de/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-26",
       "name": "Geodynamics",
-      "url": "https://geodynamics.org",
-      "category": "地学数据与模型"
+      "url": "https://geodynamics.org/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-27",
       "name": "Fastscape",
-      "url": "https://fastscape.org",
-      "category": "地学数据与模型"
+      "url": "https://fastscape.org/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-28",
       "name": "Deep Time",
-      "url": "https://deeptime.info",
-      "category": "地学数据与模型"
+      "url": "https://deeptime.info/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-29",
       "name": "GMRT",
-      "url": "https://www.gmrt.org",
-      "category": "地学数据与模型"
+      "url": "https://www.gmrt.org/",
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-30",
       "name": "Rockd",
       "url": "https://rockd.org/explore",
-      "category": "地学数据与模型"
+      "category": "地学数据与模型",
+      "note": ""
     },
     {
       "id": "core-31",
       "name": "QGIS",
-      "url": "https://qgis.org",
-      "category": "GIS与制图"
+      "url": "https://qgis.org/",
+      "category": "GIS与制图",
+      "note": ""
     },
     {
       "id": "core-32",
       "name": "GMT",
-      "url": "https://www.generic-mapping-tools.org",
-      "category": "GIS与制图"
+      "url": "https://www.generic-mapping-tools.org/",
+      "category": "GIS与制图",
+      "note": ""
     },
     {
       "id": "core-33",
       "name": "PROJ",
-      "url": "https://proj.org",
-      "category": "GIS与制图"
+      "url": "https://proj.org/",
+      "category": "GIS与制图",
+      "note": ""
     },
     {
       "id": "core-34",
       "name": "OSGeo GIS教程",
       "url": "https://www.osgeo.cn/gis-tutorial/index.html",
-      "category": "GIS与制图"
+      "category": "GIS与制图",
+      "note": ""
     },
     {
       "id": "core-35",
       "name": "Dezoomify",
-      "url": "https://dezoomify.app.ditushu.com",
-      "category": "GIS与制图"
+      "url": "https://dezoomify.app.ditushu.com/",
+      "category": "GIS与制图",
+      "note": ""
     },
     {
       "id": "core-36",
       "name": "NASA Visible Earth",
-      "url": "https://visibleearth.nasa.gov",
-      "category": "GIS与制图"
+      "url": "https://visibleearth.nasa.gov/",
+      "category": "GIS与制图",
+      "note": ""
     },
     {
       "id": "core-37",
       "name": "GitHub",
-      "url": "https://github.com",
-      "category": "软件与编程"
+      "url": "https://github.com/",
+      "category": "软件与编程",
+      "note": ""
     },
     {
       "id": "core-38",
       "name": "Python 官方文档",
       "url": "https://docs.python.org/zh-cn/3/",
-      "category": "软件与编程"
+      "category": "软件与编程",
+      "note": ""
     },
     {
       "id": "core-39",
       "name": "Jupyter",
-      "url": "https://jupyter.org",
-      "category": "软件与编程"
+      "url": "https://jupyter.org/",
+      "category": "软件与编程",
+      "note": ""
     },
     {
       "id": "core-40",
       "name": "EGU Blogs",
-      "url": "https://blogs.egu.eu",
-      "category": "工具与社区"
+      "url": "https://blogs.egu.eu/",
+      "category": "工具与社区",
+      "note": ""
     },
     {
       "id": "core-41",
       "name": "AGU",
-      "url": "https://www.agu.org",
-      "category": "工具与社区"
+      "url": "https://www.agu.org/",
+      "category": "工具与社区",
+      "note": ""
     },
     {
       "id": "core-42",
       "name": "中国地震局",
-      "url": "https://www.cea.gov.cn",
-      "category": "工具与社区"
+      "url": "https://www.cea.gov.cn/",
+      "category": "工具与社区",
+      "note": ""
     },
     {
       "id": "safari-001",
@@ -451,7 +494,7 @@
     },
     {
       "id": "safari-029",
-      "name": "· C · scientific colour-maps",
+      "name": "Scientific colour maps",
       "url": "http://www.fabiocrameri.ch/colourmaps.php",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
