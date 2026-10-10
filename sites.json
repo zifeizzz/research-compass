@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:26:54.539Z",
+  "updatedAt": "2026-10-10T06:27:29.890Z",
   "links": [
     {
       "id": "core-0",
@@ -811,13 +811,6 @@
       "id": "safari-114",
       "name": "关于站长",
       "url": "https://zifeizzz.github.io/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-118",
-      "name": "Hexo",
-      "url": "https://loopvoid.github.io/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
