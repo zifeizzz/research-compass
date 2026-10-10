@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:20:39.048Z",
+  "updatedAt": "2026-10-10T06:21:15.767Z",
   "links": [
     {
       "id": "core-0",
@@ -601,13 +601,6 @@
       "id": "safari-060",
       "name": "Eyes on the Earth",
       "url": "https://eyes.nasa.gov/apps/earth/#/",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-066",
-      "name": "GLiM - Global Lithological Map",
-      "url": "https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glim.html",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
