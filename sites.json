@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:26:10.976Z",
+  "updatedAt": "2026-10-10T06:26:54.539Z",
   "links": [
     {
       "id": "core-0",
@@ -363,13 +363,6 @@
       "id": "safari-015",
       "name": "GMT中文手册",
       "url": "https://docs.gmt-china.org/6.4/intro/",
-      "category": "GIS与制图",
-      "note": "公开科研清单 · GIS/制图/空间数据"
-    },
-    {
-      "id": "safari-016",
-      "name": "gmt-user - GMT - GMT — The Generic Mapping Tools",
-      "url": "http://gmt.soest.hawaii.edu/projects/gmt/boards",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
     },
