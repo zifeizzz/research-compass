@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:32:26.234Z",
+  "updatedAt": "2026-10-10T06:33:17.885Z",
   "links": [
     {
       "id": "core-0",
@@ -375,7 +375,7 @@
     },
     {
       "id": "safari-018",
-      "name": "https://www.generic-mapping-tools.org/remote-datasets/earth-daynight.html",
+      "name": "GMT远程数据",
       "url": "https://www.generic-mapping-tools.org/remote-datasets/earth-daynight.html",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
