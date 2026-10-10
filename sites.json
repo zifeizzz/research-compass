@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:35:34.205Z",
+  "updatedAt": "2026-10-10T02:38:06.674Z",
   "links": [
     {
       "id": "core-0",
@@ -529,7 +529,7 @@
     },
     {
       "id": "safari-034",
-      "name": "地图书 - 人文结构化知识数据库",
+      "name": "地图书",
       "url": "https://www.ditushu.com/book/10/release/editor/map?filter=title,summary,url,alias,publisher,author,description__contains:%E7%9A%87%E8%88%86",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
