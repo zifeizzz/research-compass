@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:34:20.755Z",
+  "updatedAt": "2026-10-10T02:35:06.171Z",
   "links": [
     {
       "id": "core-0",
@@ -389,7 +389,7 @@
     },
     {
       "id": "safari-014",
-      "name": "2.1. 栅格数据格式",
+      "name": "QIS在线教程",
       "url": "https://www.osgeo.cn/qgis-tutorial/imagery-raster-data-format.html",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
