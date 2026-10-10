@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:39:52.896Z",
+  "updatedAt": "2026-10-10T06:40:30.520Z",
   "links": [
     {
       "id": "core-0",
@@ -741,13 +741,6 @@
       "id": "safari-092",
       "name": "AI-Based Literature Review Resources",
       "url": "https://guides.library.ttu.edu/lit",
-      "category": "文献与图书",
-      "note": "公开科研清单 · 文献/图书/学术服务"
-    },
-    {
-      "id": "safari-093",
-      "name": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
-      "url": "https://www.jiumodiary.com/",
       "category": "文献与图书",
       "note": "公开科研清单 · 文献/图书/学术服务"
     },
