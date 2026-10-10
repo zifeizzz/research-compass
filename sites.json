@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T11:25:36.113Z",
+  "updatedAt": "2026-10-10T11:54:05.999Z",
   "links": [
     {
       "id": "core-0",
@@ -489,13 +489,6 @@
       "id": "safari-044",
       "name": "Merrill",
       "url": "https://blogs.ed.ac.uk/rockmag/",
-      "category": "古地磁与岩石磁学",
-      "note": "公开科研清单 · 古地磁/岩石磁学"
-    },
-    {
-      "id": "safari-046",
-      "name": "Paleomagnetism",
-      "url": "https://www.geo.arizona.edu/Paleomag/",
       "category": "古地磁与岩石磁学",
       "note": "公开科研清单 · 古地磁/岩石磁学"
     },
