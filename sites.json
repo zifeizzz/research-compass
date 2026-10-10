@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:29:04.782Z",
+  "updatedAt": "2026-10-10T06:30:39.863Z",
   "links": [
     {
       "id": "core-0",
@@ -746,7 +746,7 @@
     },
     {
       "id": "safari-092",
-      "name": "Home - AI-Based Literature Review Resources - Guides at Texas Tech University",
+      "name": "AI-Based Literature Review Resources",
       "url": "https://guides.library.ttu.edu/lit",
       "category": "文献与图书",
       "note": "公开科研清单 · 文献/图书/学术服务"
