@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T08:50:06.258Z",
+  "updatedAt": "2026-10-10T08:51:01.033Z",
   "links": [
     {
       "id": "core-0",
@@ -382,7 +382,7 @@
     },
     {
       "id": "safari-022",
-      "name": "new",
+      "name": "国家基础地理信息中心",
       "url": "https://www.webmap.cn/commres.do?method=cataLogStore&storeID=2&storeName=%E5%9B%BD%E5%AE%B6%E5%9F%BA%E7%A1%80%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
