@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:12:38.262Z",
+  "updatedAt": "2026-10-10T06:12:55.556Z",
   "links": [
     {
       "id": "core-0",
@@ -195,13 +195,6 @@
       "id": "core-27",
       "name": "Fastscape",
       "url": "https://fastscape.org/",
-      "category": "地学数据与模型",
-      "note": ""
-    },
-    {
-      "id": "core-28",
-      "name": "Deep Time",
-      "url": "https://deeptime.info/",
       "category": "地学数据与模型",
       "note": ""
     },
