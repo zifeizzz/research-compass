@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T12:02:33.511Z",
+  "updatedAt": "2026-10-10T12:05:47.726Z",
   "links": [
     {
       "id": "core-0",
@@ -726,7 +726,7 @@
     {
       "id": "safari-120",
       "name": "PyCharm 中文指南",
-      "url": "http://pycharm.iswbm.com/zh_CN/latest/",
+      "url": "https://pycharm.iswbm.com/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
