@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:21:15.767Z",
+  "updatedAt": "2026-10-10T06:21:59.286Z",
   "links": [
     {
       "id": "core-0",
@@ -137,7 +137,7 @@
     },
     {
       "id": "core-19",
-      "name": "Global Paleomagnetic Database",
+      "name": "GPMDB",
       "url": "http://gpmdb.net/",
       "category": "古地磁与岩石磁学",
       "note": ""
