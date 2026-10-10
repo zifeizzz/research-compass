@@ -1,14 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T12:39:22.927Z",
+  "updatedAt": "2026-10-10T13:54:48.431Z",
   "links": [
-    {
-      "id": "core-0",
-      "name": "SCI",
-      "url": "https://www.science.org/",
-      "category": "学术检索",
-      "note": ""
-    },
     {
       "id": "core-1",
       "name": "Google Scholar",
