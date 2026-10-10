@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:12:01.220Z",
+  "updatedAt": "2026-10-10T06:12:38.262Z",
   "links": [
     {
       "id": "core-0",
@@ -601,13 +601,6 @@
       "id": "safari-057",
       "name": "DDE",
       "url": "https://deep-time.org/",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-058",
-      "name": "DDE(Alpha)",
-      "url": "https://deep-time.org/#/home",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
