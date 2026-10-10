@@ -1,0 +1,1076 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-10T00:00:00Z",
+  "links": [
+    {
+      "id": "core-0",
+      "name": "SCI",
+      "url": "https://www.science.org",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-1",
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-2",
+      "name": "Web of Science",
+      "url": "https://www.webofscience.com",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-3",
+      "name": "Dimensions",
+      "url": "https://app.dimensions.ai",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-4",
+      "name": "ResearchGate",
+      "url": "https://www.researchgate.net",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-5",
+      "name": "中国知网",
+      "url": "https://www.cnki.net",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-6",
+      "name": "科学网",
+      "url": "https://www.sciencenet.cn",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-7",
+      "name": "必应",
+      "url": "https://www.bing.com",
+      "category": "学术检索"
+    },
+    {
+      "id": "core-8",
+      "name": "PubScholar",
+      "url": "https://pubscholar.cn",
+      "category": "文献与图书"
+    },
+    {
+      "id": "core-9",
+      "name": "国家图书馆",
+      "url": "https://www.nlc.cn",
+      "category": "文献与图书"
+    },
+    {
+      "id": "core-10",
+      "name": "NSTL",
+      "url": "https://www.nstl.gov.cn",
+      "category": "文献与图书"
+    },
+    {
+      "id": "core-11",
+      "name": "书格",
+      "url": "https://new.shuge.org",
+      "category": "文献与图书"
+    },
+    {
+      "id": "core-12",
+      "name": "科研通",
+      "url": "https://www.ablesci.com",
+      "category": "文献与图书"
+    },
+    {
+      "id": "core-13",
+      "name": "读秀",
+      "url": "https://www.duxiu.com",
+      "category": "文献与图书"
+    },
+    {
+      "id": "core-14",
+      "name": "PmagPy",
+      "url": "https://pmagpy.github.io/PmagPy-docs/intro.html",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-15",
+      "name": "PINT Palaeointensity Database",
+      "url": "https://pintdb.org",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-16",
+      "name": "Paleointensity.org",
+      "url": "https://paleointensity.org",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-17",
+      "name": "EarthRef / MagIC",
+      "url": "https://earthref.org/MagIC",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-18",
+      "name": "APWP-online",
+      "url": "https://apwp-online.org",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-19",
+      "name": "Global Paleomagnetic Database",
+      "url": "http://gpmdb.net",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-20",
+      "name": "NCEI Geomagnetic Calculators",
+      "url": "https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml",
+      "category": "古地磁与岩石磁学"
+    },
+    {
+      "id": "core-21",
+      "name": "GPlates",
+      "url": "https://www.gplates.org",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-22",
+      "name": "EarthByte",
+      "url": "https://www.earthbyte.org",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-23",
+      "name": "USGS",
+      "url": "https://www.usgs.gov",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-24",
+      "name": "NCEI",
+      "url": "https://www.ncei.noaa.gov",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-25",
+      "name": "GEOROC",
+      "url": "https://georoc.mpch-mainz.gwdg.de",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-26",
+      "name": "Geodynamics",
+      "url": "https://geodynamics.org",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-27",
+      "name": "Fastscape",
+      "url": "https://fastscape.org",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-28",
+      "name": "Deep Time",
+      "url": "https://deeptime.info",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-29",
+      "name": "GMRT",
+      "url": "https://www.gmrt.org",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-30",
+      "name": "Rockd",
+      "url": "https://rockd.org/explore",
+      "category": "地学数据与模型"
+    },
+    {
+      "id": "core-31",
+      "name": "QGIS",
+      "url": "https://qgis.org",
+      "category": "GIS与制图"
+    },
+    {
+      "id": "core-32",
+      "name": "GMT",
+      "url": "https://www.generic-mapping-tools.org",
+      "category": "GIS与制图"
+    },
+    {
+      "id": "core-33",
+      "name": "PROJ",
+      "url": "https://proj.org",
+      "category": "GIS与制图"
+    },
+    {
+      "id": "core-34",
+      "name": "OSGeo GIS教程",
+      "url": "https://www.osgeo.cn/gis-tutorial/index.html",
+      "category": "GIS与制图"
+    },
+    {
+      "id": "core-35",
+      "name": "Dezoomify",
+      "url": "https://dezoomify.app.ditushu.com",
+      "category": "GIS与制图"
+    },
+    {
+      "id": "core-36",
+      "name": "NASA Visible Earth",
+      "url": "https://visibleearth.nasa.gov",
+      "category": "GIS与制图"
+    },
+    {
+      "id": "core-37",
+      "name": "GitHub",
+      "url": "https://github.com",
+      "category": "软件与编程"
+    },
+    {
+      "id": "core-38",
+      "name": "Python 官方文档",
+      "url": "https://docs.python.org/zh-cn/3/",
+      "category": "软件与编程"
+    },
+    {
+      "id": "core-39",
+      "name": "Jupyter",
+      "url": "https://jupyter.org",
+      "category": "软件与编程"
+    },
+    {
+      "id": "core-40",
+      "name": "EGU Blogs",
+      "url": "https://blogs.egu.eu",
+      "category": "工具与社区"
+    },
+    {
+      "id": "core-41",
+      "name": "AGU",
+      "url": "https://www.agu.org",
+      "category": "工具与社区"
+    },
+    {
+      "id": "core-42",
+      "name": "中国地震局",
+      "url": "https://www.cea.gov.cn",
+      "category": "工具与社区"
+    },
+    {
+      "id": "safari-001",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-003",
+      "name": "DeepSeek",
+      "url": "https://chat.deepseek.com/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-004",
+      "name": "Google Gemini",
+      "url": "https://gemini.google.com/app?hl=zh-cn",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-005",
+      "name": "Grok",
+      "url": "https://grok.com/?referrer=website",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-006",
+      "name": "Qwen Chat",
+      "url": "https://chat.qwenlm.ai/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-007",
+      "name": "SiliconCloud",
+      "url": "https://cloud.siliconflow.cn/models",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-008",
+      "name": "WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站",
+      "url": "https://www.waytoagi.com/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-009",
+      "name": "扣子",
+      "url": "https://www.coze.cn/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-010",
+      "name": "智谱清言",
+      "url": "https://chatglm.cn/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-011",
+      "name": "紫东太初大模型开放平台",
+      "url": "https://ai-maas.wair.ac.cn/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-012",
+      "name": "通义",
+      "url": "https://tongyi.aliyun.com/qianwen/",
+      "category": "AI工具",
+      "note": "公开科研清单 · AI工具/服务"
+    },
+    {
+      "id": "safari-013",
+      "name": "1. 概述 — GIS原理在线教程",
+      "url": "https://www.osgeo.cn/gis-tutorial/gis.html",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-014",
+      "name": "2.1. 栅格数据格式",
+      "url": "https://www.osgeo.cn/qgis-tutorial/imagery-raster-data-format.html",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-015",
+      "name": "GMT 是什么",
+      "url": "https://docs.gmt-china.org/6.4/intro/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-016",
+      "name": "gmt-user - GMT - GMT — The Generic Mapping Tools",
+      "url": "http://gmt.soest.hawaii.edu/projects/gmt/boards",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-017",
+      "name": "GMT中文社区",
+      "url": "https://gmt-china.org/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-018",
+      "name": "https://www.generic-mapping-tools.org/remote-datasets/earth-daynight.html",
+      "url": "https://www.generic-mapping-tools.org/remote-datasets/earth-daynight.html",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-019",
+      "name": "https://www.resdc.cn/data.aspx?DATAID=278",
+      "url": "https://www.resdc.cn/data.aspx?DATAID=278",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-020",
+      "name": "Latitude and Longitude Finder",
+      "url": "https://www.latlong.net/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-021",
+      "name": "MATLAB script for 3D visualizing geodata on a rotating globe",
+      "url": "https://www.asu.cas.cz/~bezdek/vyzkum/rotating_3d_globe/index.php#code",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-022",
+      "name": "new",
+      "url": "https://www.webmap.cn/commres.do?method=cataLogStore&storeID=2&storeName=%E5%9B%BD%E5%AE%B6%E5%9F%BA%E7%A1%80%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-023",
+      "name": "Planet Map Generator",
+      "url": "http://topps.diku.dk/torbenm/maps.msp",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-024",
+      "name": "Project Gutenberg",
+      "url": "http://www.gutenberg.org/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-025",
+      "name": "Site Map",
+      "url": "https://worldbuildingpasta.blogspot.com/p/blog-page.html",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-026",
+      "name": "SVG to SHP Converter Online - MyGeodata Cloud",
+      "url": "https://mygeodata.cloud/converter/svg-to-shp",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-027",
+      "name": "vscode-GMT",
+      "url": "https://marketplace.visualstudio.com/items?itemName=zhikui.vscode-gmt",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-028",
+      "name": "Work with your entire team, all skill sets | Observable",
+      "url": "https://observablehq.com/teams",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-029",
+      "name": "· C · scientific colour-maps",
+      "url": "http://www.fabiocrameri.ch/colourmaps.php",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-030",
+      "name": "下载 — PROJ 9.1.0 文档",
+      "url": "https://www.osgeo.cn/proj/download.html",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-031",
+      "name": "中国地图 - 中国卫星地图 - 中国高清航拍地图 - 便民查询网地图",
+      "url": "https://map.bmcx.com/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-032",
+      "name": "发现中国 - 地图分享知识",
+      "url": "https://www.ageeye.cn/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-033",
+      "name": "国土人站点地图 - 国土人",
+      "url": "https://www.guoturen.com/page/sitemap",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-034",
+      "name": "地图书 - 人文结构化知识数据库",
+      "url": "https://www.ditushu.com/book/10/release/editor/map?filter=title,summary,url,alias,publisher,author,description__contains:%E7%9A%87%E8%88%86",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-035",
+      "name": "地图集 - 古地图，老地图，历史地图集",
+      "url": "https://www.dituji.com/",
+      "category": "GIS与制图",
+      "note": "公开科研清单 · GIS/制图/空间数据"
+    },
+    {
+      "id": "safari-039",
+      "name": "DGRF/IGRF Geomagnetic Field Model 1945 - 2025",
+      "url": "https://ccmc.gsfc.nasa.gov/modelweb/models/igrf_vitmo.php",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-040",
+      "name": "EarthRef.org -- PmagPy Cookbook",
+      "url": "https://earthref.org/PmagPy/cookbook/osx_pip.html",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-041",
+      "name": "Essentials of Paleomagnetism: Fifth Web Edition",
+      "url": "https://earthref.org/MagIC/books/Tauxe/Essentials/",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-044",
+      "name": "Micromagnetic Earth Related Robust Interpreted Language Laboratory",
+      "url": "https://blogs.ed.ac.uk/rockmag/",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-046",
+      "name": "Paleomagnetism",
+      "url": "https://www.geo.arizona.edu/Paleomag/",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-047",
+      "name": "Paleomagnetism.org - Interpretation Portal",
+      "url": "http://old.paleomagnetism.org/interpretation.html",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-049",
+      "name": "Synth-FORC",
+      "url": "https://synth-forc.earthref.org/",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-050",
+      "name": "The IGRF Model (13th Generation)",
+      "url": "http://geomag.bgs.ac.uk/data_service/models_compass/igrf_calc.html",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-051",
+      "name": "VARIFORC",
+      "url": "https://wserv4.esc.cam.ac.uk/nanopaleomag/?page_id=193",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-053",
+      "name": "WHOI Magnetics Group : Home",
+      "url": "http://deeptow.whoi.edu/index.html",
+      "category": "古地磁与岩石磁学",
+      "note": "公开科研清单 · 古地磁/岩石磁学"
+    },
+    {
+      "id": "safari-054",
+      "name": "ASPECT",
+      "url": "https://aspect-documentation.readthedocs.io/en/latest/index.html",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-055",
+      "name": "ASPECT: Advanced Solver for Planetary Evolution, Convection, and Tectonics",
+      "url": "https://aspect.geodynamics.org/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-056",
+      "name": "Computational Infrastructure for Geodynamics :: Software",
+      "url": "https://geodynamics.org/cig/software/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-057",
+      "name": "DDE | Web-GPlates",
+      "url": "https://dplanet.deep-time.org/DPlanet/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-058",
+      "name": "DDE(Alpha)",
+      "url": "https://deep-time.org/#/home",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-059",
+      "name": "Earth's tectonic and plate boundary evolution over 1.8 billion years",
+      "url": "https://eartharxiv.org/repository/view/5834/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-060",
+      "name": "Eyes on the Earth",
+      "url": "https://eyes.nasa.gov/apps/earth/#/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-062",
+      "name": "Geochemical Rock Database-Query",
+      "url": "https://georoc.mpch-mainz.gwdg.de/georoc/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-064",
+      "name": "Geodynamics - Resources",
+      "url": "https://geodynamics.org/resources",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-065",
+      "name": "GEOROC Compilation: Rock Types - Precompiled Files",
+      "url": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/2JETOA",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-066",
+      "name": "GLiM - Global Lithological Map",
+      "url": "https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glim.html",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-068",
+      "name": "GPlates Community Forum",
+      "url": "https://discourse.gplates.org/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-069",
+      "name": "Home",
+      "url": "http://www.earthdynamics.org/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-070",
+      "name": "How did we find out about Ocean-plate tectonics?",
+      "url": "https://www.fabiocrameri.ch/dynamic-earth/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-071",
+      "name": "Installation",
+      "url": "https://badlands.readthedocs.io/en/latest/install.html",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-072",
+      "name": "Installation via Docker",
+      "url": "https://gospl.readthedocs.io/en/latest/getting_started/installDocker.html#installdocker",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-073",
+      "name": "Interactive Paleoenvironment Reconstructions",
+      "url": "https://map.paleoenvironment.eu/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-074",
+      "name": "Kimi Chat - 帮你看更大的世界",
+      "url": "https://kimi.moonshot.cn/?utm_campaign=TR_DZ13UKtp&utm_content=&utm_medium=B%E7%AB%99&utm_source=CH_Hda6bmiW&utm_term=",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-075",
+      "name": "Kimi.ai - 会推理解析，能深度思考的AI助手",
+      "url": "https://kimi.moonshot.cn/chat/cthe6bg3r077k2dkpldg",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-076",
+      "name": "Maps and Geospatial Products",
+      "url": "https://www.ncei.noaa.gov/maps-and-geospatial-products",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-077",
+      "name": "Marine Geology Viewer",
+      "url": "https://maps.ngdc.noaa.gov/viewers/marine_geology/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-078",
+      "name": "Mars MGS MOLA - MEX HRSC Blended DEM Global 200m v2",
+      "url": "https://astrogeology.usgs.gov/search/map/Mars/Topography/HRSC_MOLA_Blend/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-079",
+      "name": "NASA Visible Earth - Home",
+      "url": "https://visibleearth.nasa.gov/collection/1484/blue-marble?page=1",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-080",
+      "name": "Paleo Data Search | Home | National Centers for Environmental Information (NCEI)",
+      "url": "https://www.ncei.noaa.gov/access/paleo-search/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-081",
+      "name": "Perseverance Rover's Landing Site: Jezero Crater",
+      "url": "https://mars.nasa.gov/mars2020/mission/science/landing-site/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-083",
+      "name": "SZI database | subduction initiation",
+      "url": "https://www.szidatabase.org/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-084",
+      "name": "Tales from a Westeros Geologist",
+      "url": "http://milestraer.com/GoT-geology/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-085",
+      "name": "Teaching – Paleoenvironment",
+      "url": "http://paleoenvironment.eu/teaching/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-086",
+      "name": "Tectonic and Metallogenic Model for Northeast Asia",
+      "url": "https://pubs.usgs.gov/of/2011/1026/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-087",
+      "name": "USGS Moon Relief",
+      "url": "https://www.generic-mapping-tools.org/remote-datasets/moon-relief.html",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-088",
+      "name": "WOMEESA",
+      "url": "https://www.womeesa.net/",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-089",
+      "name": "地質圖",
+      "url": "https://jimmytseng79.github.io/GMT5_tutorials/geology_map.html",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-090",
+      "name": "火星图浏览",
+      "url": "https://moon.bao.ac.cn/Mars/index/index.html#",
+      "category": "地学数据与模型",
+      "note": "公开科研清单 · 地学研究/数据/模型"
+    },
+    {
+      "id": "safari-091",
+      "name": "CNKI电子发票服务系统",
+      "url": "https://card.cnki.net/fapiao/home.html",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-092",
+      "name": "Home - AI-Based Literature Review Resources - Guides at Texas Tech University",
+      "url": "https://guides.library.ttu.edu/lit",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-093",
+      "name": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+      "url": "https://www.jiumodiary.com/",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-094",
+      "name": "LATEST POSTS",
+      "url": "https://www.paperdigest.org/",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-095",
+      "name": "NSTL国家科技图书文献中心",
+      "url": "https://www.nstl.gov.cn/agent_buy_info.html",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-098",
+      "name": "影印古籍资料",
+      "url": "https://sou-yun.cn/eBookIndex.aspx",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-099",
+      "name": "村落调查研究数据库",
+      "url": "http://www.ruralchina.cn/lmc/sublibrary?SiteID=18&ID=83&from=groupmessage",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-100",
+      "name": "知网查重-知网个人查重服务",
+      "url": "https://cx.cnki.net/main.html#/login",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-101",
+      "name": "首页-论文阅读(BETA)-专业的学术讨论社区-粤港澳大湾区数字经济研究院（福田）",
+      "url": "https://readpaper.com/",
+      "category": "文献与图书",
+      "note": "公开科研清单 · 文献/图书/学术服务"
+    },
+    {
+      "id": "safari-102",
+      "name": "Ed — Digital Learning Platform",
+      "url": "https://edstem.org/au/courses/8582/discussion/828173",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-103",
+      "name": "Teach the Earth",
+      "url": "https://serc.carleton.edu/teachearth/index.html",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-104",
+      "name": "地学景观探秘·审美·文化_重庆大学",
+      "url": "https://www.icourse163.org/course/CQU-1002531005?tid=1470015447",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-105",
+      "name": "地球的故事：如何建造一个宜居行星_南京大学_中国大学MOOC(慕课)",
+      "url": "https://www.icourse163.org/course/NJU-1461540167",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-106",
+      "name": "城市详细规划原理_河南城建学院_中国大学MOOC(慕课)",
+      "url": "https://www.icourse163.org/course/HNCJ-1003359029?tid=1003592035",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-107",
+      "name": "学科网-海量中小学教育资源共享平台、权威教学资源门户网站！",
+      "url": "https://www.zxxk.com/",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-108",
+      "name": "爱课程",
+      "url": "https://www.icourses.cn/home/",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-109",
+      "name": "规划教材索引_规划教材_教材巡展网上行",
+      "url": "http://www.jcxzwsx.com/ghjc.asp",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-110",
+      "name": "课程中心",
+      "url": "https://kc.enetedu.com/User/Home",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-111",
+      "name": "风景背后的地貌学_华中师范大学_中国大学MOOC(慕课)",
+      "url": "https://www.icourse163.org/course/CCNU-1002920015",
+      "category": "课程与教学",
+      "note": "公开科研清单 · 教学/课程资源"
+    },
+    {
+      "id": "safari-112",
+      "name": "3.8.11 Documentation",
+      "url": "https://docs.python.org/3.8/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-113",
+      "name": "[置顶] hugo博客搭建 | PaperMod主题",
+      "url": "https://www.sulvblog.cn/posts/blog/build_hugo/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-114",
+      "name": "academicpages is a ready-to-fork GitHub Pages template for academic personal websites",
+      "url": "https://zifeizzz.github.io/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-115",
+      "name": "Anaconda Distribution",
+      "url": "https://www.anaconda.com/distribution/#download-section",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-116",
+      "name": "awk 入门教程",
+      "url": "http://www.ruanyifeng.com/blog/2018/11/awk.html",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-117",
+      "name": "GitHub - edutfree/dageyun: 大哥云机场官网地址+最新优惠码",
+      "url": "https://github.com/edutfree/dageyun?tab=readme-ov-file",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-118",
+      "name": "Hexo",
+      "url": "https://loopvoid.github.io/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-119",
+      "name": "POV-Ray - The Persistence of Vision Raytracer",
+      "url": "http://povray.org/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-120",
+      "name": "PyCharm 中文指南",
+      "url": "http://pycharm.iswbm.com/zh_CN/latest/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-121",
+      "name": "Python教程",
+      "url": "https://www.liaoxuefeng.com/wiki/1016959663602400",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-122",
+      "name": "Python黑魔法手册",
+      "url": "http://magic.iswbm.com/zh/latest/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-123",
+      "name": "Read the Docs",
+      "url": "https://readthedocs.org/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-124",
+      "name": "Releases · clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-125",
+      "name": "Swanson-Hysell Research Group at UC Berkeley",
+      "url": "https://github.com/Swanson-Hysell-Group",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-126",
+      "name": "texturing - Anton Balazh Ocean Material - Blender Stack Exchange",
+      "url": "https://blender.stackexchange.com/questions/63793/anton-balazh-ocean-material",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-127",
+      "name": "texturing - Planet texture generator - Blender Stack Exchange",
+      "url": "https://blender.stackexchange.com/questions/31424/planet-texture-generator",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-128",
+      "name": "Yu Ren",
+      "url": "https://seisfish.github.io/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-129",
+      "name": "一维信号的高斯滤波",
+      "url": "https://loopvoid.github.io/2017/03/04/%E4%B8%80%E7%BB%B4%E4%BF%A1%E5%8F%B7%E7%9A%84%E9%AB%98%E6%96%AF%E6%BB%A4%E6%B3%A2/",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-130",
+      "name": "大哥云官网地址",
+      "url": "https://github.com/edutfree/dageyun/tree/main",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    },
+    {
+      "id": "safari-131",
+      "name": "插件 – Blender中国社区",
+      "url": "https://www.blendercn.org/%e6%8f%92%e4%bb%b6",
+      "category": "软件与编程",
+      "note": "公开科研清单 · 软件/编程/开发"
+    }
+  ]
+}
