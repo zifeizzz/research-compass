@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T08:51:51.113Z",
+  "updatedAt": "2026-10-10T08:53:00.594Z",
   "links": [
     {
       "id": "core-0",
@@ -221,7 +221,7 @@
     },
     {
       "id": "core-34",
-      "name": "OSGeo GIS教程",
+      "name": "GIS教程",
       "url": "https://www.osgeo.cn/gis-tutorial/index.html",
       "category": "GIS与制图",
       "note": ""
