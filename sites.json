@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T03:00:06.739Z",
+  "updatedAt": "2026-10-10T03:02:40.497Z",
   "links": [
     {
       "id": "core-0",
@@ -601,13 +601,6 @@
       "id": "safari-055",
       "name": "ASPECT: Advanced Solver for Planetary Evolution, Convection, and Tectonics",
       "url": "https://aspect.geodynamics.org/",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-056",
-      "name": "Computational Infrastructure for Geodynamics :: Software",
-      "url": "https://geodynamics.org/cig/software/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
