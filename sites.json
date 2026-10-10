@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:20:17.458Z",
+  "updatedAt": "2026-10-10T06:20:39.048Z",
   "links": [
     {
       "id": "core-0",
@@ -825,13 +825,6 @@
       "id": "safari-114",
       "name": "关于站长",
       "url": "https://zifeizzz.github.io/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-117",
-      "name": "GitHub - edutfree/dageyun: 大哥云机场官网地址+最新优惠码",
-      "url": "https://github.com/edutfree/dageyun?tab=readme-ov-file",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
