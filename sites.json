@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T03:15:08.192Z",
+  "updatedAt": "2026-10-10T06:00:09.777Z",
   "links": [
     {
       "id": "core-0",
@@ -1033,7 +1033,7 @@
     },
     {
       "id": "safari-131",
-      "name": "插件 – Blender中国社区",
+      "name": "Blender中国社区",
       "url": "https://www.blendercn.org/%e6%8f%92%e4%bb%b6",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
