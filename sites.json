@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:17:48.117Z",
+  "updatedAt": "2026-10-10T06:18:20.570Z",
   "links": [
     {
       "id": "core-0",
@@ -515,7 +515,7 @@
     },
     {
       "id": "safari-041",
-      "name": "Essentials of Paleomagnetism: Fifth Web Edition",
+      "name": "Essentials of Paleomagnetism",
       "url": "https://earthref.org/MagIC/books/Tauxe/Essentials/",
       "category": "古地磁与岩石磁学",
       "note": "公开科研清单 · 古地磁/岩石磁学"
