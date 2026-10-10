@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T08:48:18.858Z",
+  "updatedAt": "2026-10-10T08:50:06.258Z",
   "links": [
     {
       "id": "core-0",
@@ -167,13 +167,6 @@
       "id": "core-23",
       "name": "USGS",
       "url": "https://www.usgs.gov/",
-      "category": "地学数据与模型",
-      "note": ""
-    },
-    {
-      "id": "core-24",
-      "name": "NCEI",
-      "url": "https://www.ncei.noaa.gov/",
       "category": "地学数据与模型",
       "note": ""
     },
