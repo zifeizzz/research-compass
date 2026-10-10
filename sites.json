@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:33:17.885Z",
+  "updatedAt": "2026-10-10T06:37:17.105Z",
   "links": [
     {
       "id": "core-0",
@@ -382,7 +382,7 @@
     },
     {
       "id": "safari-019",
-      "name": "https://www.resdc.cn/data.aspx?DATAID=278",
+      "name": "地理数据平台",
       "url": "https://www.resdc.cn/data.aspx?DATAID=278",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
