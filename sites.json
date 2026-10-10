@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:56:29.865Z",
+  "updatedAt": "2026-10-10T02:58:31.460Z",
   "links": [
     {
       "id": "core-0",
@@ -286,13 +286,6 @@
       "id": "core-40",
       "name": "EGU Blogs",
       "url": "https://blogs.egu.eu/",
-      "category": "工具与社区",
-      "note": ""
-    },
-    {
-      "id": "core-41",
-      "name": "AGU",
-      "url": "https://www.agu.org/",
       "category": "工具与社区",
       "note": ""
     },
