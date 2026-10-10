@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T11:55:06.005Z",
+  "updatedAt": "2026-10-10T11:59:58.031Z",
   "links": [
     {
       "id": "core-0",
@@ -97,13 +97,6 @@
       "id": "core-14",
       "name": "PmagPy",
       "url": "https://pmagpy.github.io/PmagPy-docs/intro.html",
-      "category": "古地磁与岩石磁学",
-      "note": ""
-    },
-    {
-      "id": "core-15",
-      "name": "PINT Palaeointensity Database",
-      "url": "https://pintdb.org/",
       "category": "古地磁与岩石磁学",
       "note": ""
     },
