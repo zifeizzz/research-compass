@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:00:46.851Z",
+  "updatedAt": "2026-10-10T06:01:08.462Z",
   "links": [
     {
       "id": "core-0",
@@ -881,13 +881,6 @@
       "id": "safari-104",
       "name": "地学景观探秘·审美·文化_重庆大学",
       "url": "https://www.icourse163.org/course/CQU-1002531005?tid=1470015447",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-105",
-      "name": "地球的故事：如何建造一个宜居行星_南京大学_中国大学MOOC(慕课)",
-      "url": "https://www.icourse163.org/course/NJU-1461540167",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
     },
