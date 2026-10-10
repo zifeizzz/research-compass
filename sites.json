@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T11:59:58.031Z",
+  "updatedAt": "2026-10-10T12:01:39.803Z",
   "links": [
     {
       "id": "core-0",
@@ -419,13 +419,6 @@
       "id": "safari-029",
       "name": "Scientific colour maps",
       "url": "http://www.fabiocrameri.ch/colourmaps.php",
-      "category": "GIS与制图",
-      "note": "公开科研清单 · GIS/制图/空间数据"
-    },
-    {
-      "id": "safari-030",
-      "name": "PROJ 9.1.0 文档",
-      "url": "https://www.osgeo.cn/proj/download.html",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
     },
