@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:39:09.548Z",
+  "updatedAt": "2026-10-10T02:39:30.459Z",
   "links": [
     {
       "id": "core-0",
@@ -837,7 +837,7 @@
     },
     {
       "id": "safari-090",
-      "name": "火星图浏览",
+      "name": "火星图",
       "url": "https://moon.bao.ac.cn/Mars/index/index.html#",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
