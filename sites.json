@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:44:53.632Z",
+  "updatedAt": "2026-10-10T06:46:33.262Z",
   "links": [
     {
       "id": "core-0",
@@ -634,8 +634,8 @@
     },
     {
       "id": "safari-078",
-      "name": "Mars MGS MOLA - MEX HRSC Blended DEM Global 200m v2",
-      "url": "https://astrogeology.usgs.gov/search/map/Mars/Topography/HRSC_MOLA_Blend/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2",
+      "name": "Astropedia",
+      "url": "https://astrogeology.usgs.gov/search?target=&system=&p=1&accscope=&searchBar=",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
