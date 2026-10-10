@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:10:53.034Z",
+  "updatedAt": "2026-10-10T06:12:01.220Z",
   "links": [
     {
       "id": "core-0",
@@ -867,13 +867,6 @@
       "id": "safari-114",
       "name": "关于站长",
       "url": "https://zifeizzz.github.io/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-116",
-      "name": "awk 入门教程",
-      "url": "http://www.ruanyifeng.com/blog/2018/11/awk.html",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
