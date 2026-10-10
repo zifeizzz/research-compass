@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:10:33.267Z",
+  "updatedAt": "2026-10-10T06:10:53.034Z",
   "links": [
     {
       "id": "core-0",
@@ -286,13 +286,6 @@
       "id": "core-40",
       "name": "EGU Blogs",
       "url": "https://blogs.egu.eu/",
-      "category": "工具与社区",
-      "note": ""
-    },
-    {
-      "id": "core-42",
-      "name": "中国地震局",
-      "url": "https://www.cea.gov.cn/",
       "category": "工具与社区",
       "note": ""
     },
