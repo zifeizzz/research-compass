@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:30:39.863Z",
+  "updatedAt": "2026-10-10T06:32:26.234Z",
   "links": [
     {
       "id": "core-0",
@@ -613,7 +613,7 @@
     },
     {
       "id": "safari-070",
-      "name": "How did we find out about Ocean-plate tectonics?",
+      "name": "Fabio Crameri",
       "url": "https://www.fabiocrameri.ch/dynamic-earth/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
