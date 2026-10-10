@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:20:02.119Z",
+  "updatedAt": "2026-10-10T06:20:17.458Z",
   "links": [
     {
       "id": "core-0",
@@ -601,13 +601,6 @@
       "id": "safari-060",
       "name": "Eyes on the Earth",
       "url": "https://eyes.nasa.gov/apps/earth/#/",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-064",
-      "name": "Geodynamics - Resources",
-      "url": "https://geodynamics.org/resources",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
