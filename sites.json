@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:51:05.450Z",
+  "updatedAt": "2026-10-10T02:52:03.349Z",
   "links": [
     {
       "id": "core-0",
@@ -963,7 +963,7 @@
     },
     {
       "id": "safari-114",
-      "name": "academicpages is a ready-to-fork GitHub Pages template for academic personal websites",
+      "name": "关于站长",
       "url": "https://zifeizzz.github.io/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
