@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:16:51.390Z",
+  "updatedAt": "2026-10-10T06:17:48.117Z",
   "links": [
     {
       "id": "core-0",
@@ -592,8 +592,8 @@
     },
     {
       "id": "safari-059",
-      "name": "Earth's tectonic and plate boundary evolution over 1.8 billion years",
-      "url": "https://eartharxiv.org/repository/view/5834/",
+      "name": "eartharxiv",
+      "url": "https://eartharxiv.org/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
