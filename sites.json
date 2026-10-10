@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:09:12.645Z",
+  "updatedAt": "2026-10-10T06:10:33.267Z",
   "links": [
     {
       "id": "core-0",
@@ -839,13 +839,6 @@
       "id": "safari-099",
       "name": "村落调查研究数据库",
       "url": "http://www.ruralchina.cn/lmc/sublibrary?SiteID=18&ID=83&from=groupmessage",
-      "category": "文献与图书",
-      "note": "公开科研清单 · 文献/图书/学术服务"
-    },
-    {
-      "id": "safari-100",
-      "name": "知网查重-知网个人查重服务",
-      "url": "https://cx.cnki.net/main.html#/login",
       "category": "文献与图书",
       "note": "公开科研清单 · 文献/图书/学术服务"
     },
