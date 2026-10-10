@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T03:13:35.983Z",
+  "updatedAt": "2026-10-10T03:15:08.192Z",
   "links": [
     {
       "id": "core-0",
@@ -643,13 +643,6 @@
       "id": "safari-064",
       "name": "Geodynamics - Resources",
       "url": "https://geodynamics.org/resources",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-065",
-      "name": "GEOROC Compilation: Rock Types - Precompiled Files",
-      "url": "https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/2JETOA",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
