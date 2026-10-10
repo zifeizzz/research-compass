@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:39:30.459Z",
+  "updatedAt": "2026-10-10T02:45:03.055Z",
   "links": [
     {
       "id": "core-0",
@@ -501,7 +501,7 @@
     },
     {
       "id": "safari-030",
-      "name": "下载 — PROJ 9.1.0 文档",
+      "name": "PROJ 9.1.0 文档",
       "url": "https://www.osgeo.cn/proj/download.html",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
