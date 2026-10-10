@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:52:03.349Z",
+  "updatedAt": "2026-10-10T02:54:52.921Z",
   "links": [
     {
       "id": "core-0",
@@ -515,7 +515,7 @@
     },
     {
       "id": "safari-033",
-      "name": "国土人站点地图 - 国土人",
+      "name": "国土人",
       "url": "https://www.guoturen.com/page/sitemap",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
