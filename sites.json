@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:44:00.095Z",
+  "updatedAt": "2026-10-10T06:44:53.632Z",
   "links": [
     {
       "id": "core-0",
@@ -627,7 +627,7 @@
     },
     {
       "id": "safari-076",
-      "name": "Maps and Geospatial Products",
+      "name": "NOAA地图与地理产品",
       "url": "https://www.ncei.noaa.gov/maps-and-geospatial-products",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
