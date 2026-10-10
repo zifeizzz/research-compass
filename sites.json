@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:38:44.791Z",
+  "updatedAt": "2026-10-10T02:39:09.548Z",
   "links": [
     {
       "id": "core-0",
@@ -965,13 +965,6 @@
       "id": "safari-110",
       "name": "课程中心",
       "url": "https://kc.enetedu.com/User/Home",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-111",
-      "name": "风景背后的地貌学_华中师范大学_中国大学MOOC(慕课)",
-      "url": "https://www.icourse163.org/course/CCNU-1002920015",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
     },
