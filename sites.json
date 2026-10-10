@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T11:54:26.735Z",
+  "updatedAt": "2026-10-10T11:55:06.005Z",
   "links": [
     {
       "id": "core-0",
@@ -627,7 +627,7 @@
     },
     {
       "id": "safari-081",
-      "name": "Perseverance Rover's Landing Site: Jezero Crater",
+      "name": "Perseverance Rover's",
       "url": "https://mars.nasa.gov/mars2020/mission/science/landing-site/",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
