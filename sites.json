@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:00:09.777Z",
+  "updatedAt": "2026-10-10T06:00:27.632Z",
   "links": [
     {
       "id": "core-0",
@@ -888,13 +888,6 @@
       "id": "safari-105",
       "name": "地球的故事：如何建造一个宜居行星_南京大学_中国大学MOOC(慕课)",
       "url": "https://www.icourse163.org/course/NJU-1461540167",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-106",
-      "name": "城市详细规划原理_河南城建学院_中国大学MOOC(慕课)",
-      "url": "https://www.icourse163.org/course/HNCJ-1003359029?tid=1003592035",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
     },
