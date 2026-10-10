@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T12:07:52.737Z",
+  "updatedAt": "2026-10-10T12:08:36.618Z",
   "links": [
     {
       "id": "core-0",
@@ -734,13 +734,6 @@
       "id": "safari-122",
       "name": "Python黑魔法手册",
       "url": "http://magic.iswbm.com/zh/latest/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-123",
-      "name": "Read the Docs",
-      "url": "https://readthedocs.org/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
