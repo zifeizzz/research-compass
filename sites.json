@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:21:59.286Z",
+  "updatedAt": "2026-10-10T06:26:10.976Z",
   "links": [
     {
       "id": "core-0",
@@ -361,7 +361,7 @@
     },
     {
       "id": "safari-015",
-      "name": "GMT 是什么",
+      "name": "GMT中文手册",
       "url": "https://docs.gmt-china.org/6.4/intro/",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
