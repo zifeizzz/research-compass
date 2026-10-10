@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T12:01:39.803Z",
+  "updatedAt": "2026-10-10T12:02:33.511Z",
   "links": [
     {
       "id": "core-0",
@@ -720,13 +720,6 @@
       "id": "safari-114",
       "name": "关于站长",
       "url": "https://zifeizzz.github.io/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-119",
-      "name": "POV-Ray - The Persistence of Vision Raytracer",
-      "url": "http://povray.org/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
