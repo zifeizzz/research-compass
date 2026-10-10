@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T12:09:14.358Z",
+  "updatedAt": "2026-10-10T12:39:22.927Z",
   "links": [
     {
       "id": "core-0",
@@ -181,13 +181,6 @@
       "id": "core-29",
       "name": "GMRT",
       "url": "https://www.gmrt.org/",
-      "category": "地学数据与模型",
-      "note": ""
-    },
-    {
-      "id": "core-30",
-      "name": "Rockd",
-      "url": "https://rockd.org/explore",
       "category": "地学数据与模型",
       "note": ""
     },
