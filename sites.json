@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:41:41.175Z",
+  "updatedAt": "2026-10-10T06:42:55.157Z",
   "links": [
     {
       "id": "core-0",
@@ -727,13 +727,6 @@
       "id": "safari-092",
       "name": "AI-Based Literature Review Resources",
       "url": "https://guides.library.ttu.edu/lit",
-      "category": "文献与图书",
-      "note": "公开科研清单 · 文献/图书/学术服务"
-    },
-    {
-      "id": "safari-094",
-      "name": "LATEST POSTS",
-      "url": "https://www.paperdigest.org/",
       "category": "文献与图书",
       "note": "公开科研清单 · 文献/图书/学术服务"
     },
