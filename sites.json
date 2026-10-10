@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:33:25.529Z",
+  "updatedAt": "2026-10-10T02:33:43.912Z",
   "links": [
     {
       "id": "core-0",
@@ -979,13 +979,6 @@
       "id": "safari-112",
       "name": "3.8.11 Documentation",
       "url": "https://docs.python.org/3.8/",
-      "category": "软件与编程",
-      "note": "公开科研清单 · 软件/编程/开发"
-    },
-    {
-      "id": "safari-113",
-      "name": "[置顶] hugo博客搭建 | PaperMod主题",
-      "url": "https://www.sulvblog.cn/posts/blog/build_hugo/",
       "category": "软件与编程",
       "note": "公开科研清单 · 软件/编程/开发"
     },
