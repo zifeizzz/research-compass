@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:02:19.217Z",
+  "updatedAt": "2026-10-10T06:03:09.681Z",
   "links": [
     {
       "id": "core-0",
@@ -881,13 +881,6 @@
       "id": "safari-108",
       "name": "爱课程",
       "url": "https://www.icourses.cn/home/",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-109",
-      "name": "规划教材索引_规划教材_教材巡展网上行",
-      "url": "http://www.jcxzwsx.com/ghjc.asp",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
     },
