@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:38:06.674Z",
+  "updatedAt": "2026-10-10T02:38:44.791Z",
   "links": [
     {
       "id": "core-0",
@@ -515,8 +515,8 @@
     },
     {
       "id": "safari-032",
-      "name": "发现中国 - 地图分享知识",
-      "url": "https://www.ageeye.cn/",
+      "name": "观沧海",
+      "url": "https://ageeye.app.ditushu.com/",
       "category": "GIS与制图",
       "note": "公开科研清单 · GIS/制图/空间数据"
     },
