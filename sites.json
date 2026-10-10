@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T08:47:48.106Z",
+  "updatedAt": "2026-10-10T08:48:18.858Z",
   "links": [
     {
       "id": "core-0",
@@ -636,13 +636,6 @@
       "id": "safari-078",
       "name": "Astropedia",
       "url": "https://astrogeology.usgs.gov/search?target=&system=&p=1&accscope=&searchBar=",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-079",
-      "name": "NASA Visible Earth - Home",
-      "url": "https://visibleearth.nasa.gov/collection/1484/blue-marble?page=1",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
