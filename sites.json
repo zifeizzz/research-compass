@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:54:52.921Z",
+  "updatedAt": "2026-10-10T02:56:29.865Z",
   "links": [
     {
       "id": "core-0",
@@ -951,13 +951,6 @@
       "id": "safari-109",
       "name": "规划教材索引_规划教材_教材巡展网上行",
       "url": "http://www.jcxzwsx.com/ghjc.asp",
-      "category": "课程与教学",
-      "note": "公开科研清单 · 教学/课程资源"
-    },
-    {
-      "id": "safari-110",
-      "name": "课程中心",
-      "url": "https://kc.enetedu.com/User/Home",
       "category": "课程与教学",
       "note": "公开科研清单 · 教学/课程资源"
     },
