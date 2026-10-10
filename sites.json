@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:01:48.107Z",
+  "updatedAt": "2026-10-10T06:02:19.217Z",
   "links": [
     {
       "id": "core-0",
@@ -790,13 +790,6 @@
       "id": "safari-088",
       "name": "WOMEESA",
       "url": "https://www.womeesa.net/",
-      "category": "地学数据与模型",
-      "note": "公开科研清单 · 地学研究/数据/模型"
-    },
-    {
-      "id": "safari-089",
-      "name": "地質圖",
-      "url": "https://jimmytseng79.github.io/GMT5_tutorials/geology_map.html",
       "category": "地学数据与模型",
       "note": "公开科研清单 · 地学研究/数据/模型"
     },
